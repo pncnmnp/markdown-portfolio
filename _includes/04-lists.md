@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+The Sports I love are:
+* Formula-1 (motorsport)
+* Cricket
+* Tennis
